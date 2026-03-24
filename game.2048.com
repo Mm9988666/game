@@ -1,1 +1,1 @@
-https://wsd-demo.netlify.app/app-test?inApp=1&ad_app_token=jp1n73nx7ksg&gps_adid=3625da6c-2076-470f-b13f-0b41b3372b2f&adid=3625da6c-2076-470f-b13f-0b41b3372b2f&af_app_id=com.ReverieKernel.PowerEvolution2048&appsflyer_id=LrrwuuBEUese2T69ByNAvm
+
